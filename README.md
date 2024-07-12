@@ -1,6 +1,6 @@
 # 0x00. AirBnB clone - The console
 
-Project done by Kilwa
+Holberton School's AirBnB project breaks down high-level programming into parts. The main goal is to create an HBnB website server. The first part builds a command interpreter for handling HBnB website objects.
 
 ## Functionalities of the command interpreter:
 
